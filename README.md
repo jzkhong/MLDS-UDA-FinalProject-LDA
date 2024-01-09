@@ -55,7 +55,7 @@ These can be installed via pip using the command `pip install numpy==1.26.1 pand
 2. **Install Dependencies**:
    - Install the required Python libraries using pip:
      ```bash
-     pip install numpy==1.26.1 pandas==2.1.4 matplotlib==3.8.0 seaborn==0.13.0 wordcloud==1.9.3 nltk==3.8.1 scikit-learn==1.3.2 gensim==4.3.2 pyLDAvis==3.4.0
+     pip install numpy==1.26.1 pandas==2.1.4 matplotlib==3.8.0 seaborn==0.13.0 wordcloud==1.9.3 nltk==3.8.1 scikit-learn==1.3.2 gensim==4.3.2 pyLDAvis==3.4.1
      ```
 3. **Launch Jupyter Notebook**:
    - Navigate to the repository directory in terminal (for Mac users) or PowerShell (for Windows users).
