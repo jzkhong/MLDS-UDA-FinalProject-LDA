@@ -42,9 +42,9 @@ To run this notebook, the following specific versions of Python libraries are re
 - nltk 3.8.1
 - scikit-learn (sklearn) 1.3.2
 - gensim 4.3.2
-- pyLDAvis 3.4.0
+- pyLDAvis 3.4.1
 
-These can be installed via pip using the command `pip install numpy==1.26.1 pandas==2.1.4 matplotlib==3.8.0 seaborn==0.13.0 wordcloud==1.9.3 nltk==3.8.1 scikit-learn==1.3.2 gensim==4.3.2 pyLDAvis==3.4.0`.
+These can be installed via pip using the command `pip install numpy==1.26.1 pandas==2.1.4 matplotlib==3.8.0 seaborn==0.13.0 wordcloud==1.9.3 nltk==3.8.1 scikit-learn==1.3.2 gensim==4.3.2 pyLDAvis==3.4.1`.
 
 ### Installation and Running the Notebook
 1. **Clone the Repository**:
