@@ -6,7 +6,7 @@
 This repository hosts the Jupyter notebook which performs a comprehensive analysis of the UK's Doctoral Thesis Metadata from EThOS. The analysis focuses on various aspects of the doctoral theses, including exploratory data analysis of the publication years, institutional distribution & keywords in titles, preprocessing of thesis title, TF-IDF analysis and topic modeling using LDA.
 
 ## Dataset
-The dataset, `EThOS_data.csv`, comprises bibliographic metadata for all UK doctoral theses listed in EThOS. Sourced from the British Library, it provides insights into thesis titles, authors, universities, subjects, and years of publication.
+The dataset, `EThOS_data.csv`, comprises bibliographic metadata for all UK doctoral theses listed in EThOS. Sourced from the British Library Research Repository, it provides insights into thesis titles, authors, universities, subjects, and years of publication.
 
 ### Data Description
 - **Title**: Title of the thesis.
